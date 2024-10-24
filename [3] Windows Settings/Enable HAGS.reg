@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Enable Hardware Accelerated GPU Scheduling
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers]
+"HwSchMode"=dword:00000002
