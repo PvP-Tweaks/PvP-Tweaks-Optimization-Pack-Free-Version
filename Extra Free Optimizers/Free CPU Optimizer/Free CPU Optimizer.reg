@@ -1,0 +1,79 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\RobloxPlayerBeta.exe\PerfOptions]
+"CpuPriorityClass"=dword:00000008
+"CpuPriority"=dword:0000002A
+"CpuThreadPriority"=dword:00000008
+"CpuPriorityControl"=dword:00000001
+"CpuThreadCount"=dword:00000008
+"CpuPrioritySeperation"=dword:00000000
+"CpuCoresAlways"=dword:00000012
+"CpuUtilization"=dword:00000100
+"CpuSpread"=dword:00000000
+"CpuMaxPerformance"=dword:00000100
+"CpuPriorityClass"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\FortniteClient-Win64-Shipping.exe\PerfOptions]
+"CpuPriorityClass"=dword:00000008
+"CpuPriority"=dword:0000002A
+"CpuThreadPriority"=dword:00000008
+"CpuPriorityControl"=dword:00000001
+"CpuThreadCount"=dword:00000008
+"CpuPrioritySeperation"=dword:00000000
+"CpuCoresAlways"=dword:00000012
+"CpuUtilization"=dword:00000100
+"CpuSpread"=dword:00000000
+"CpuMaxPerformance"=dword:00000100
+"CpuPriorityClass"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\javaw.exe\PerfOptions]
+"CpuPriorityClass"=dword:00000008
+"CpuPriority"=dword:0000002A
+"CpuThreadPriority"=dword:00000008
+"CpuPriorityControl"=dword:00000001
+"CpuThreadCount"=dword:00000008
+"CpuPrioritySeperation"=dword:00000000
+"CpuCoresAlways"=dword:00000012
+"CpuUtilization"=dword:00000100
+"CpuSpread"=dword:00000000
+"CpuMaxPerformance"=dword:00000100
+"CpuPriorityClass"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\java.exe\PerfOptions]
+"CpuPriorityClass"=dword:00000008
+"CpuPriority"=dword:0000002A
+"CpuThreadPriority"=dword:00000008
+"CpuPriorityControl"=dword:00000001
+"CpuThreadCount"=dword:00000008
+"CpuPrioritySeperation"=dword:00000000
+"CpuCoresAlways"=dword:00000012
+"CpuUtilization"=dword:00000100
+"CpuSpread"=dword:00000000
+"CpuMaxPerformance"=dword:00000100
+"CpuPriorityClass"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\valorant-win64-shipping.exe\PerfOptions]
+"CpuPriorityClass"=dword:00000008
+"CpuPriority"=dword:0000002A
+"CpuThreadPriority"=dword:00000008
+"CpuPriorityControl"=dword:00000001
+"CpuThreadCount"=dword:00000008
+"CpuPrioritySeperation"=dword:00000000
+"CpuCoresAlways"=dword:00000012
+"CpuUtilization"=dword:00000100
+"CpuSpread"=dword:00000000
+"CpuMaxPerformance"=dword:00000100
+"CpuPriorityClass"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\csgo.exe\PerfOptions]
+"CpuPriorityClass"=dword:00000008
+"CpuPriority"=dword:0000002A
+"CpuThreadPriority"=dword:00000008
+"CpuPriorityControl"=dword:00000001
+"CpuThreadCount"=dword:00000008
+"CpuPrioritySeperation"=dword:00000000
+"CpuCoresAlways"=dword:00000012
+"CpuUtilization"=dword:00000100
+"CpuSpread"=dword:00000000
+"CpuMaxPerformance"=dword:00000100
+"CpuPriorityClass"=dword:00000003
